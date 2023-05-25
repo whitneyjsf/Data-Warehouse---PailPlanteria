@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "PotFactCube", "PotFactCube.dwproj", "{5FD0F9E7-7530-4F68-A4D4-07B8958F01F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD0F9E7-7530-4F68-A4D4-07B8958F01F2}.Development|Default.ActiveCfg = Development
+		{5FD0F9E7-7530-4F68-A4D4-07B8958F01F2}.Development|Default.Build.0 = Development
+		{5FD0F9E7-7530-4F68-A4D4-07B8958F01F2}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {527C085D-5C15-4F4D-AD92-E3CFAD647194}
+	EndGlobalSection
+EndGlobal

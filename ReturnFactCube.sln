@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ReturnFactCube", "ReturnFactCube.dwproj", "{486D6E4B-02FF-49E7-8489-34B8741E8860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486D6E4B-02FF-49E7-8489-34B8741E8860}.Development|Default.ActiveCfg = Development
+		{486D6E4B-02FF-49E7-8489-34B8741E8860}.Development|Default.Build.0 = Development
+		{486D6E4B-02FF-49E7-8489-34B8741E8860}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2BE8F32-47BD-417E-BB93-2B8B02CF5AB3}
+	EndGlobalSection
+EndGlobal
